@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <b  color="#4285f4">사</b>
 
 <div align="center">
 
