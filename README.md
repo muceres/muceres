@@ -2,10 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/51910006/88867289-57f05f00-d20d-11ea-8307-aae1358237d8.png" width="72" height="72">
 
-<br />
-<br />
-<br />
+# Get in touch
 
+<br />
+<br />
 
  [![home](https://user-images.githubusercontent.com/51910006/88861996-75b6c780-d1ff-11ea-8afd-870c35ff781c.png)](https://saxjst.com/)
 &nbsp; &nbsp; [![mail](https://user-images.githubusercontent.com/51910006/88866862-2c20a980-d20c-11ea-9bb2-5b26db28a1f6.png)](mailto:hello@saxjst.com)
