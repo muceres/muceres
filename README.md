@@ -2,9 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/51910006/88867289-57f05f00-d20d-11ea-8307-aae1358237d8.png" width="72" height="72">
 
-# Get in touch
-
-<br />
+## About me
 <br />
 
  [![home](https://user-images.githubusercontent.com/51910006/88861996-75b6c780-d1ff-11ea-8afd-870c35ff781c.png)](https://saxjst.com/)
