@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
- Have a great day ! :heart:
+ <i>Have a great day ! :heart: </i>
  <br /> <br />
 </div>
 
