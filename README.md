@@ -14,7 +14,7 @@
 
 If you want to know more about me or want to chat you can [mail me](mailto:hello@saxjst.com) or and check the links below :
 
- <br /> <br />
+ <br />
 </div>
 
 <div align="center">
