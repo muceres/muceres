@@ -4,7 +4,7 @@
 
 <div align="left">
 
-## Hello there 👋
+## Hello, I'm Samuel 👋
 > Back-End Software Engineer
 <br />
 
