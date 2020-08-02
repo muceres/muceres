@@ -4,15 +4,15 @@
 
 <div align="left">
 
-## Hello there :wave:
+## Hello there 👋
 
 <br />
 
 - 🛠  I'm a Back-End Software Engineer remotely working at [Trusk](https://trusk.com/fr/). I'm fond of Javascript/Node JS. I might also be tempted by using Go.
 - 📚  In my work, I give a lot of importance to practices like functional programming, unit tests and documentation writing.
-- :heart:  When away from the computer, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
+- :heart:  In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
 
-If you want to know more about me or want to chat you can [mail me](mailto:hello@saxjst.com) or and check the links below :
+If you want to know more about me or just want to chat you can [send me a mail ](mailto:hello@saxjst.com) or check the links below.
 
  <br />
 </div>
