@@ -12,7 +12,14 @@
 - 📚  In my work, I give a lot of importance to practices like functional programming, unit tests and documentation writing.
 - 🥋  When away from the computer, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
 
-<br /> <br />
+
+
+
+</div>
+
+<div align="center">
+ Have a great day ! :heart:
+ <br /> <br />
 </div>
 
 <div align="center">
