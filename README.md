@@ -4,13 +4,13 @@
 
 <div align="left">
 
-## Hello, I'm Samuel 👋
-> Back-End Software Engineer
+## Hello there 👋
+
 <br />
 
-- 🛠  I'm a Software Engineer remotely working at [Trusk](https://trusk.com/fr/). I'm fond of Javascript/Node JS.
-- 📚  In my work, I give a lot of importance to practices like functional programming, unit tests and documentation writing.
-- :heart:  In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
+- I'm a Software Engineer remotely working at [Trusk](https://trusk.com/fr/). I'm fond of Javascript/Node JS.
+- In my work, I give a lot of importance to practices like functional programming, unit tests and documentation writing.
+- In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
 <br />
 
 If you want to know more about me or just want to chat you can [mail me](mailto:hello@saxjst.com) or check the links below.
