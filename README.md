@@ -15,13 +15,13 @@
 
 If you want to know more about me or just want to chat you can [mail me](mailto:hello@saxjst.com) or check the links below.
 
- <br /><br />
+ <br />
 </div>
 
 <div align="center">
  <i>Have a great day ! </i>
 
-<br /> <br />
+<br />
 </div>
 
 <div align="center">
