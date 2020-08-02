@@ -12,6 +12,7 @@
 - 📚  In my work, I give a lot of importance to practices like functional programming, unit tests and documentation writing.
 - :heart:  In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
 
+<br />
 If you want to know more about me or just want to chat you can [send me a mail ](mailto:hello@saxjst.com) or check the links below.
 
  <br /><br />
