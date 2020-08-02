@@ -20,8 +20,7 @@ If you want to know more about me or just want to chat you can [mail me](mailto:
 
 <div align="center">
  <i>Have a great day ! </i>
-
-<br />
+<br /><br />
 </div>
 
 <div align="center">
