@@ -8,7 +8,7 @@
 
 <br />
 
-- 🛠  I'm a Back-End Software Engineer remotely working at [Trusk](https://trusk.com/fr/). I'm fond of Javascript/Node JS. I might also be tempted by using Go.
+- 🛠  I'm a Back-End Software Engineer remotely working at [Trusk](https://trusk.com/fr/). I'm fond of Javascript/Node JS.
 - 📚  In my work, I give a lot of importance to practices like functional programming, unit tests and documentation writing.
 - :heart:  In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
 <br />
