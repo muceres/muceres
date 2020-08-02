@@ -3,7 +3,9 @@
 </div>
 
 <div align="left">
+
 ## About me
+
 <br />
 
 I'm a back end software engineer working at [Trusk](https://trusk.com/fr/). I'm fond of Javascript/Node JS. I might also be tempted by using Go.
