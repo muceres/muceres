@@ -4,7 +4,7 @@
 
 <div align="left">
 
-## About me
+## Hello there :wave:
 
 <br />
 
