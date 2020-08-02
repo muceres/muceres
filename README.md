@@ -12,9 +12,9 @@
 - 📚  In my work, I give a lot of importance to practices like functional programming, unit tests and documentation writing.
 - :heart:  When away from the computer, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
 
+If you want to know more about me or want to chat you can [mail me](mailto:hello@saxjst.com) or and check the links below :
 
-
-
+ <br /> <br />
 </div>
 
 <div align="center">
