@@ -24,10 +24,12 @@ If you want to know more about me or just want to chat you can [mail me](mailto:
 
 <div align="center">
  
- [![home](https://user-images.githubusercontent.com/51910006/88861996-75b6c780-d1ff-11ea-8afd-870c35ff781c.png)](https://saxjst.com/)
-&nbsp; &nbsp; [![mail](https://user-images.githubusercontent.com/51910006/88866862-2c20a980-d20c-11ea-9bb2-5b26db28a1f6.png)](mailto:hello@saxjst.com)
-&nbsp; &nbsp; [![linkedin](https://user-images.githubusercontent.com/51910006/88861572-874b9f80-d1fe-11ea-96f6-d697b607a951.png)](https://www.linkedin.com/in/samueldjoset/)
-&nbsp; &nbsp; [
-![CV](https://user-images.githubusercontent.com/51910006/88867811-dac5e980-d20e-11ea-91cf-5390c819e3a3.png)](https://drive.google.com/file/d/15-8A8lfiwvamOH9m4b4S7agdTfd45thT/view)
+[![home-solid](https://user-images.githubusercontent.com/51910006/89192736-3bee1400-d5a5-11ea-802d-98ffc8c578f7.png)](https://saxjst.com/)  &nbsp;
+[![at-solid(3)](https://user-images.githubusercontent.com/51910006/89192621-08ab8500-d5a5-11ea-8cc2-0892547a19c9.png)](mailto:samuel@saxjst.com) &nbsp;
+[![linkedin-in-brands](https://user-images.githubusercontent.com/51910006/89192984-9a1af700-d5a5-11ea-9783-e8e9df0257db.png)](https://www.linkedin.com/in/samueldjoset/) &nbsp;
+[![download-solid](https://user-images.githubusercontent.com/51910006/89193518-62607f00-d5a6-11ea-91f6-e10d6743a029.png)](https://drive.google.com/file/d/15-8A8lfiwvamOH9m4b4S7agdTfd45thT/view)
+
+
  
 </div>
+
