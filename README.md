@@ -4,7 +4,7 @@
 
 <div align="left">
 
-## Hello, you 👋
+## Hello, you 👋🏾
 **My name is Samuel** 
 <br />
 
