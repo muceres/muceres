@@ -4,14 +4,14 @@
 
 <div align="left">
 
-## Hello, you 👋🏾
-**My name is Samuel** 
+<h1> Hello, you 👋🏾</h1>
+<b>My name is Samuel</b> 
 <br />
 
-I'm a Software Engineer remotely working at [Trusk](https://trusk.com/fr/). I mostly use Javascript/Node JS and I give a lot of importance to practices like functional programming, unit tests and documentation. In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
+I'm a Software Engineer remotely working at <a href="https://trusk.com/fr/">Trusk</a>. I mostly use Javascript/Node JS and I give a lot of importance to practices like functional programming, unit tests and documentation. In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
 &nbsp;
 
-If you want to know more about me or just want to chat you can [mail me](mailto:hello@saxjst.com) or check the links below.
+If you want to know more about me or just want to chat you can <a href="mailto:hello@saxjst.com">mail me</a> or check the links below.
 
  <br />
 </div>
