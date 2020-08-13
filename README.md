@@ -8,10 +8,9 @@
 <b>My name is Samuel</b> 
 <br />
 
-I'm a Software Engineer remotely working at <a href="https://trusk.com/fr/">Trusk</a>. I mostly use Javascript/Node JS and I give a lot of importance to practices like functional programming, unit tests and documentation. In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. 
-<br/>
-If you want to know more about me or just want to chat you can <a href="mailto:hello@saxjst.com">mail me</a> or check the links below.
-
+I'm a Software Engineer remotely working at <a href="https://trusk.com/fr/">Trusk</a>. I mostly use Javascript/Node JS and I give a lot of importance to practices like functional programming, JAMstack, minimalism, unit tests and documentation. In my spare time, I enjoy traveling, hiking, martial arts, swimming, cooking, continuous learning  and reading. You can see more on me and my work on my <a href="https://saxjst.com">website</a>.
+<br/><br:>
+Got something you want to talk about ? Just <a href="mailto:hello@saxjst.com">email me</a> and I get back to you as soon as I can.
 <br /><br/>
 </div>
 
